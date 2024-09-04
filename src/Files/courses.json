@@ -1,0 +1,167 @@
+[
+    {
+        "name": "Full-Stack Web Development",
+        "id" : "1",
+        "price": 79,
+        "description": "Learn to build modern web applications using front-end and back-end technologies.",
+        "offered_by": "Tech Academy",
+        "key_experties": ["HTML", "CSS", "JavaScript", "Node.js", "React", "MongoDB"],
+        "main_goal": "Build full-stack applications from scratch.",
+        "img" : "https://traininglot.com/wp-content/uploads/2015/01/courses.png",
+        "precautions": "Basic programming knowledge is recommended."
+    },
+    {
+        "name": "Data Science with Python",
+        "price": 99,
+        "id" : "2",
+        "description": "Master the art of data analysis, visualization, and machine learning using Python.",
+        "offered_by": "Data Academy",
+        "key_experties": ["Python", "Pandas", "NumPy", "Matplotlib", "Scikit-Learn"],
+        "main_goal": "Analyze and interpret complex data sets.",
+        "img" : "https://traininglot.com/wp-content/uploads/2015/01/courses.png",
+        "precautions": "Familiarity with Python is recommended."
+    },
+    {
+        "name": "Digital Marketing",
+        "price": 69,
+        "id" : "3",
+        "description": "Learn the essentials of digital marketing, including SEO, social media, and content strategy.",
+        "offered_by": "Marketing Pro",
+        "key_experties": ["SEO", "Social Media Marketing", "Content Strategy", "Google Ads"],
+        "main_goal": "Develop and execute effective digital marketing campaigns.",
+        "img" : "https://traininglot.com/wp-content/uploads/2015/01/courses.png",
+        "precautions": "No prerequisites."
+    },
+    {
+        "name": "Cloud Computing with AWS",
+        "price": 59,
+        "id" : "4",
+        "description": "Learn to design, deploy, and manage applications on Amazon Web Services.",
+        "offered_by": "Cloud Gurus",
+        "key_experties": ["AWS", "EC2", "S3", "Lambda", "VPC"],
+        "main_goal": "Gain proficiency in cloud architecture and deployment.",
+        "img" : "https://traininglot.com/wp-content/uploads/2015/01/courses.png",
+        "precautions": "Basic networking knowledge is recommended."
+    },
+    {
+        "name": "Introduction to Cybersecurity",
+        "price": 129,
+        "id" : "5",
+        "description": "Learn the fundamentals of cybersecurity and protect systems from threats.",
+        "offered_by": "Security Hub",
+        "key_experties": ["Network Security", "Encryption", "Threat Analysis", "Firewalls"],
+        "main_goal": "Understand and implement security measures to protect data.",
+        "img" : "https://traininglot.com/wp-content/uploads/2015/01/courses.png",
+        "precautions": "No prerequisites."
+    },
+    {
+        "name": "Machine Learning with TensorFlow",
+        "price": 109,
+        "id" : "6",
+        "description": "Master machine learning concepts and implement models using TensorFlow.",
+        "offered_by": "AI Academy",
+        "key_experties": ["TensorFlow", "Neural Networks", "Deep Learning", "Keras"],
+        "img" : "https://traininglot.com/wp-content/uploads/2015/01/courses.png",
+        "main_goal": "Build and deploy machine learning models.",
+        "precautions": "Basic understanding of Python and mathematics is recommended."
+    },
+    {
+        "name": "Project Management Professional (PMP) Certification",
+        "price": 129,
+        "id" : "7",
+        "description": "Prepare for the PMP certification exam and gain project management skills.",
+        "offered_by": "PM Institute",
+        "key_experties": ["Project Planning", "Risk Management", "Stakeholder Management", "Agile"],
+        "main_goal": "Successfully manage projects and pass the PMP exam.",
+        "img" : "https://traininglot.com/wp-content/uploads/2015/01/courses.png",
+        "precautions": "Experience in project management is recommended."
+    },
+    {
+        "name": "Graphic Design for Beginners",
+        "price": 79,
+        "id" : "8",
+        "description": "Learn the basics of graphic design, including tools and techniques.",
+        "offered_by": "Design School",
+        "key_experties": ["Photoshop", "Illustrator", "Typography", "Color Theory"],
+        "main_goal": "Create visually appealing designs for various media.",
+        "img" : "https://traininglot.com/wp-content/uploads/2015/01/courses.png",
+        "precautions": "No prerequisites."
+    },
+    {
+        "name": "Ethical Hacking",
+        "price": 179,
+        "id" : "9",
+        "description": "Learn ethical hacking techniques to identify and fix security vulnerabilities.",
+        "offered_by": "Security Hub",
+        "key_experties": ["Penetration Testing", "Vulnerability Assessment", "Network Security"],
+        "main_goal": "Protect systems by identifying and addressing security flaws.",
+        "img" : "https://traininglot.com/wp-content/uploads/2015/01/courses.png",
+        "precautions": "Basic networking knowledge is recommended."
+    },
+    {
+        "name": "Mobile App Development with Flutter",
+        "price": 59,
+        "id" : "10",
+        "description": "Build cross-platform mobile applications using Flutter and Dart.",
+        "offered_by": "Mobile Dev Academy",
+        "key_experties": ["Flutter", "Dart", "UI/UX Design", "APIs"],
+        "main_goal": "Create high-performance mobile apps for iOS and Android.",
+        "img" : "https://traininglot.com/wp-content/uploads/2015/01/courses.png",
+        "precautions": "Basic programming knowledge is recommended."
+    },
+    {
+        "name": "Financial Modeling with Excel",
+        "price": 79,
+        "id" : "11",
+        "description": "Learn to build financial models and analyze data using Microsoft Excel.",
+        "offered_by": "Finance Academy",
+        "key_experties": ["Excel", "Financial Analysis", "Data Modeling", "Valuation"],
+        "img" : "https://traininglot.com/wp-content/uploads/2015/01/courses.png",
+        "main_goal": "Create and interpret complex financial models.",
+        "precautions": "Basic knowledge of finance is recommended."
+    },
+    {
+        "name": "Blockchain Development",
+        "price": 299,
+        "id" : "12",
+        "description": "Learn to develop decentralized applications on blockchain platforms.",
+        "offered_by": "Blockchain Academy",
+        "key_experties": ["Ethereum", "Smart Contracts", "Solidity", "DApps"],
+        "img" : "https://traininglot.com/wp-content/uploads/2015/01/courses.png",
+        "main_goal": "Build and deploy blockchain-based applications.",
+        "precautions": "Familiarity with programming and cryptography is recommended."
+    },
+    {
+        "name": "Introduction to Artificial Intelligence",
+        "price": 459,
+        "id" : "13",
+        "description": "Explore the fundamentals of AI and its applications in various industries.",
+        "offered_by": "AI Academy",
+        "key_experties": ["Machine Learning", "Natural Language Processing", "AI Ethics"],
+        "main_goal": "Understand AI concepts and how to apply them.",
+        "img" : "https://traininglot.com/wp-content/uploads/2015/01/courses.png",
+        "precautions": "No prerequisites."
+    },
+    {
+        "name": "Photography Masterclass",
+        "price": 49,
+        "id" : "14",
+        "description": "Learn professional photography techniques to capture stunning images.",
+        "offered_by": "Photo School",
+        "key_experties": ["Camera Settings", "Lighting", "Composition", "Editing"],
+        "main_goal": "Take professional-quality photographs.",
+        "img" : "https://traininglot.com/wp-content/uploads/2015/01/courses.png",
+        "precautions": "A digital camera is recommended."
+    },
+    {
+        "name": "Big Data Analytics",
+        "price": 39,
+        "id" : "15",
+        "description": "Learn to analyze and interpret large data sets using big data tools.",
+        "offered_by": "Data Academy",
+        "key_experties": ["Hadoop", "Spark", "NoSQL", "Data Visualization"],
+        "main_goal": "Gain insights from big data and make data-driven decisions.",
+        "img" : "https://traininglot.com/wp-content/uploads/2015/01/courses.png",
+        "precautions": "Basic knowledge of data analysis is recommended."
+    }
+]
